@@ -17,7 +17,7 @@ The notebook Text_summarization_using_Streamlit_and_Groq.ipynb provides an end-t
 
 1. Interactive Summarization Interface: Upload PDF or text files and get AI-generated summaries in seconds.
 
-2. Multiple Model Options: Users can switch between Groq-hosted models (Gemma2_9B, LLaMA 3.2) for experimentation.
+2. Multiple Model Options: Users can switch between Groq-hosted models (Gemma2_9B, LLaMA 3.3) for experimentation.
 
 3. PDF Text Extraction: Integrates PyMuPDF4LLM for parsing and reading multi-page documents.
 
